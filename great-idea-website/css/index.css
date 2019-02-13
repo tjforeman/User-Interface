@@ -64,3 +64,100 @@ h1, h2, h3, h4, h5 {
 }
 
 /* Your code starts here! */
+header nav {
+	font-size: 18px;
+	display:inline-block;
+  
+  }
+  
+  header nav a{
+	margin:0 20px;
+	text-decoration:none;
+	color:gray;
+  }
+  header img.logo{
+	margin-left:50px;
+  }
+  h1{
+	font-size:50px;
+  }
+  p{
+	margin:10px;
+  }
+  .head{
+	margin:50px;
+	display:inline-block
+	  
+  }
+  header {
+	  vertical-align: middle;
+  }
+  
+  .body {
+	  display: inline-block;
+	margin-left:200px;
+	 border-bottom:1px solid black
+  }
+  
+  .text {
+	  font-size: 65px;
+	  width: 50%;
+	  display: inline-block;
+	  padding: 50px;
+	  vertical-align: middle;
+	  text-align: center;
+  }
+  
+  .picture {
+	width: 40%;
+	padding: 50px;
+	  display: inline-block;
+	  vertical-align: middle;
+  }
+  
+  button{
+	background-color:white;
+	width:60%;
+	border-color:black;
+  }
+  .main-content {
+	  margin:20px;
+	  display: inline-block;
+  }
+  
+  .top{
+	  display: inline-block;
+  }
+  
+  .text2 {
+	  display: inline-block;
+	  width: 40%;
+	  box-sizing: border-box;
+	  margin: 25px;
+  }
+  
+  .middle-img {
+	display: block;
+	margin-left: auto;
+	margin-right: auto;
+	width: 50%;
+  }
+  .bottom {
+	  display: inline-block;
+	  border-bottom: 1px solid black
+  }
+  
+  .text3 {
+	  display: inline-block;
+	  width: 25%;
+	  box-sizing: border-box;
+	  margin: 25px;
+  }
+  .info{
+	width:200px;
+	display:block;
+  }
+  footer{
+	text-align:center;
+	margin:30px;
+  }
